@@ -39,6 +39,8 @@ namespace Kolygina11gr_Exam
             File.AppendAllText("C:\\Users\\stud\\source\\repos\\Kolygina11gr_Exam\\result.txt", $"{name} {gr} Балл: {res}\n");
             Console.ReadKey();
             out_.Flush();
+            
+
         }
     }
 }
