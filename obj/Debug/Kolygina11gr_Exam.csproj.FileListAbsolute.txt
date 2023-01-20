@@ -1,0 +1,7 @@
+C:\Users\stud\source\repos\Kolygina11gr_Exam\bin\Debug\Kolygina11gr_Exam.exe.config
+C:\Users\stud\source\repos\Kolygina11gr_Exam\bin\Debug\Kolygina11gr_Exam.exe
+C:\Users\stud\source\repos\Kolygina11gr_Exam\bin\Debug\Kolygina11gr_Exam.pdb
+C:\Users\stud\source\repos\Kolygina11gr_Exam\obj\Debug\Kolygina11gr_Exam.csprojAssemblyReference.cache
+C:\Users\stud\source\repos\Kolygina11gr_Exam\obj\Debug\Kolygina11gr_Exam.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\Kolygina11gr_Exam\obj\Debug\Kolygina11gr_Exam.exe
+C:\Users\stud\source\repos\Kolygina11gr_Exam\obj\Debug\Kolygina11gr_Exam.pdb
