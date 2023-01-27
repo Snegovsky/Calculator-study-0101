@@ -41,6 +41,7 @@ namespace Kolygina11gr_Exam
             out_.Flush();
 
             Console.WriteLine("Умножение");
+
         }
     }
 }
